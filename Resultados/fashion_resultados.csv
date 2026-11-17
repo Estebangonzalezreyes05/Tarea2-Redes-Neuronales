@@ -1,0 +1,4 @@
+Configuracion,Train_Accuracy,Val_Accuracy,Test_Accuracy
+Config 1: 1 Capa (128),91.64%,89.05%,87.73%
+Config 2: 2 Capas (256-128),93.12%,89.70%,88.30%
+Config 3: 3 Capas + Dropout (512-256-128),89.98%,89.60%,88.15%
